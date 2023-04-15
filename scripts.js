@@ -18,7 +18,7 @@ shipping = null
 currency = $
 
 if (shoes + batteries + pens + shirts > 1000 ) {
-	if (location = NAM && customers < 2) {
+	if (location = NAM && customers < 1) {
 			if (location = RSA)
 		    shipping = 0 || calcShipping
 		}
